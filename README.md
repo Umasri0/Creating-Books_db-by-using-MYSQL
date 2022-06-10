@@ -1,5 +1,5 @@
 # Creating-Books_db-by-using-MYSQL
-Creating database bookshop
+Creating database bookshop by:
 
 1. Create Table books.
 2. Inserting books values.
